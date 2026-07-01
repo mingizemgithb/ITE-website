@@ -1,0 +1,21 @@
+
+h1 {
+  color: red;
+}
+p {
+  color: red;
+}
+
+<style>
+h1 {
+  color: red;
+  font-family: verdana;
+  font-size: 1000%;
+}
+p  {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+
